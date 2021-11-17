@@ -3,6 +3,11 @@
 All these cheats in the folder can be used outside games
 
 # jquery
+link below
+copy the following
+'''js
+https://www.gbasil.dev/blooket
+'''
 
 # addTokens.js
 
